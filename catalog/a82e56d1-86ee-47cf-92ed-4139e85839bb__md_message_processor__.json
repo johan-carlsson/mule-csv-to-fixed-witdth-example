@@ -1,0 +1,26 @@
+{
+    "inputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "csv"
+        },
+        "flowVariables": {
+            "gender": {
+                "connectorName": "#_custom_mule_metadata_type_#",
+                "typeId": "Gender"
+            },
+            "name": {
+                "connectorName": "#_custom_mule_metadata_type_#",
+                "typeId": "Name"
+            }
+        }
+    },
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "FixedWidth"
+        }
+    },
+    "id": "a82e56d1-86ee-47cf-92ed-4139e85839bb",
+    "version": "5.2.0.0"
+}
